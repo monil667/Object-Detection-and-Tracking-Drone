@@ -22,7 +22,7 @@ Object Tracking: Algorithms like Kalman Filters, Mean-Shift, and Particle Filter
 
 Navigation and Control: Autonomous flight control systems for maneuvering and stability.
 
-Working Principle
+# Working Principle
 
 Initialization:
 The drone takes off and initializes its sensors and camera systems.
