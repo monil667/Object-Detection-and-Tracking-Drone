@@ -4,7 +4,7 @@ These drones are used in a variety of applications including surveillance, searc
 
 ![Tracking-by-detection-paradigm-Firstly-an-independent-detector-is-applied-to-all](https://github.com/monil667/Object-Detection-and-Tracking-Drone/assets/114842275/0c698e48-1f94-4e16-93cf-e90524c80c05)
 
-Key Components:
+# Key Components:
 
 Drone Hardware:
 
