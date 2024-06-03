@@ -6,40 +6,40 @@ These drones are used in a variety of applications including surveillance, searc
 
 # Key Components:
 
-Drone Hardware:
+**Drone Hardware:**
 
-Frame and Propulsion: The physical structure, motors, and propellers that enable flight.
+**Frame and Propulsion:** The physical structure, motors, and propellers that enable flight.
 
-Camera and Sensors: High-resolution cameras (RGB, thermal, or infrared), GPS, IMU (Inertial Measurement Unit), and other sensors for environmental awareness.
+**Camera and Sensors:** High-resolution cameras (RGB, thermal, or infrared), GPS, IMU (Inertial Measurement Unit), and other sensors for environmental awareness.
 
-Processing Unit: Onboard computer or microcontroller to process data in real-time.
+**Processing Unit:** Onboard computer or microcontroller to process data in real-time.
 
-Software and Algorithms:
+__Software and Algorithms:__
 
-Object Detection: Uses algorithms like TensorFlow Lite or Faster R-CNN (Region Convolutional Neural Network) to identify objects within the camera's field of view.
+__Object Detection:__ Uses algorithms like TensorFlow Lite or Faster R-CNN (Region Convolutional Neural Network) to identify objects within the camera's field of view.
 
-Object Tracking: Algorithms like Kalman Filters, Mean-Shift, and Particle Filters to follow the detected object over time.
+__Object Tracking:__ Algorithms like Kalman Filters, Mean-Shift, and Particle Filters to follow the detected object over time.
 
-Navigation and Control: Autonomous flight control systems for maneuvering and stability.
+__Navigation and Control:__ Autonomous flight control systems for maneuvering and stability.
 
 # Working Principle
 
-Initialization:
+**Initialization:**
 The drone takes off and initializes its sensors and camera systems.
 The user or pre-defined mission parameters specify the target object or area for surveillance.
 
-Object Detection:
+**Object Detection:**
 The camera captures video frames, which are processed by the onboard computer.
 Machine learning algorithms detect objects of interest within each frame, classifying and locating them with bounding boxes.
 
-Object Tracking:
+**Object Tracking:**
 Once an object is detected, tracking algorithms maintain a lock on the target, even if it moves or changes appearance.
 The drone adjusts its flight path to follow the object, maintaining a specified distance and angle.
 
-Real-Time Processing:
+**Real-Time Processing:**
 Data from the camera and sensors are continuously processed to update the position and status of the object.
 The processing unit uses this information to adjust the drone’s flight path dynamically.
 
-Data Transmission and Control:
+**Data Transmission and Control:**
 Live video feed and telemetry data can be transmitted to a ground control station.
 Operators can intervene if necessary, or the drone can continue autonomously based on its programming.
