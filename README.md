@@ -16,7 +16,7 @@ Processing Unit: Onboard computer or microcontroller to process data in real-tim
 
 Software and Algorithms:
 
-Object Detection: Uses algorithms like YOLO (You Only Look Once), SSD (Single Shot MultiBox Detector), or Faster R-CNN (Region Convolutional Neural Network) to identify objects within the camera's field of view.
+Object Detection: Uses algorithms like TensorFlow Lite or Faster R-CNN (Region Convolutional Neural Network) to identify objects within the camera's field of view.
 
 Object Tracking: Algorithms like Kalman Filters, Mean-Shift, and Particle Filters to follow the detected object over time.
 
