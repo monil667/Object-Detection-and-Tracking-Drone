@@ -6,7 +6,7 @@ These drones are used in a variety of applications including surveillance, searc
 
 # Key Components:
 
-*Drone Hardware:*
+**Drone Hardware:**
 
 *Frame and Propulsion:* The physical structure, motors, and propellers that enable flight.
 
