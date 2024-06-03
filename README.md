@@ -14,6 +14,8 @@ These drones are used in a variety of applications including surveillance, searc
 
 *Processing Unit:* Onboard computer or microcontroller to process data in real-time.
 
+![Picture-of-a-DJI-F450-drone-and-its-component-parts](https://github.com/monil667/Object-Detection-and-Tracking-Drone/assets/114842275/81aa3ce5-ec40-4c22-a150-cea08514844b)
+
 __Software and Algorithms:__
 
 _Object Detection:_ Uses algorithms like TensorFlow Lite or Faster R-CNN (Region Convolutional Neural Network) to identify objects within the camera's field of view.
